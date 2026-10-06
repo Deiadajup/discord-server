@@ -1,1 +1,1 @@
-# Puty-tas
+# server-discord
